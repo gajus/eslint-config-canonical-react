@@ -1,5 +1,4 @@
-# JavaScript Mores Style (React/JSX)
-## ESLint Shareable Config
+# Mores ESLint (React/JSX) Shareable Config
 
 [![Travis build status](http://img.shields.io/travis/gajus/eslint-plugin-mores-react/master.svg?style=flat-square)](https://travis-ci.org/gajus/eslint-plugin-mores-react)
 [![NPM version](http://img.shields.io/npm/v/eslint-plugin-mores-react.svg?style=flat-square)](https://www.npmjs.org/package/eslint-plugin-mores-react)

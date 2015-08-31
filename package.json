@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-mores-react",
   "description": "Mores ESLint (React/JSX) Shareable Config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "./index.js",
   "author": {
     "name": "Gajus Kuizinas",

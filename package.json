@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-mores-react",
-  "description": "Mores ESLint (React/JSX) Shareable Config",
+  "name": "eslint-config-canonical-react",
+  "description": "Canonical ESLint (React/JSX) Shareable Config",
   "version": "1.1.0",
   "main": "./index.js",
   "author": {
@@ -11,11 +11,11 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gajus/eslint-config-mores-react"
+    "url": "https://github.com/gajus/eslint-config-canonical-react"
   },
   "keywords": [
     "eslint",
-    "mores"
+    "canonical"
   ],
   "scripts": {
     "test": "babel-node ./node_modules/.bin/mocha"

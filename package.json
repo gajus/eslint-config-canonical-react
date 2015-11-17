@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-canonical-react",
   "description": "Canonical ESLint (React/JSX) Config",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "main": "./index.js",
   "author": {
     "name": "Gajus Kuizinas",

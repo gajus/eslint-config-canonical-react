@@ -17,6 +17,13 @@
                 "allowMultiline": true
             }
         ],
+        "react/jsx-handler-names": [
+            2,
+            {
+                "eventHandlerPrefix": "handle",
+                "eventHandlerPropPrefix": "on"
+            }
+        ],
         "react/jsx-indent-props": [
             2,
             4
@@ -33,6 +40,7 @@
         "react/jsx-no-duplicate-props": 2,
         "react/jsx-no-literals": 0,
         "react/jsx-no-undef": 1,
+        "react/jsx-pascal-case": 1,
         "react/jsx-quotes": 0,
         "react/jsx-sort-prop-types": 1,
         "react/jsx-sort-props": 1,

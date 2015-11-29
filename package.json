@@ -22,9 +22,9 @@
     "test": ""
   },
   "devDependencies": {
-    "eslint": "^1.10.1"
+    "eslint": "^1.10.2"
   },
   "dependencies": {
-    "eslint-plugin-react": "^3.10.0"
+    "eslint-plugin-react": "^3.11.1"
   }
 }

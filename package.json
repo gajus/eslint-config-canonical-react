@@ -19,10 +19,13 @@
     "react"
   ],
   "scripts": {
-    "test": ""
+    "test": "",
+    "format": "jsonlint --sort-keys --in-place --indent '    ' ./eslintrc.json",
+    "preversion": "format"
   },
   "devDependencies": {
-    "eslint": "^1.10.3"
+    "eslint": "^1.10.3",
+    "jsonlint": "^1.6.2"
   },
   "dependencies": {
     "eslint-plugin-react": "^3.15.0"

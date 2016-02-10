@@ -9,7 +9,7 @@
   },
   "description": "Canonical ESLint (React/JSX) Config",
   "devDependencies": {
-    "eslint": "^2.0.0-rc.0",
+    "eslint": "^2.0.0-rc.1",
     "jsonlint": "^1.6.2"
   },
   "keywords": [

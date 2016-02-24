@@ -5,7 +5,7 @@
     "url": "http://gajus.com"
   },
   "dependencies": {
-    "eslint-plugin-react": "^4.0.0"
+    "eslint-plugin-react": "^4.1.0"
   },
   "description": "Canonical ESLint (React/JSX) Config",
   "devDependencies": {

@@ -1,33 +1,33 @@
 {
-    "author": {
-        "email": "gk@anuary.com",
-        "name": "Gajus Kuizinas",
-        "url": "http://gajus.com"
-    },
-    "dependencies": {
-        "eslint-plugin-react": "^4.2.3"
-    },
-    "description": "Canonical ESLint (React/JSX) Config",
-    "devDependencies": {
-        "eslint": "^2.4.0",
-        "jsonlint": "^1.6.2"
-    },
-    "keywords": [
-        "eslint",
-        "canonical",
-        "react"
-    ],
-    "license": "BSD-3-Clause",
-    "main": "./index.js",
-    "name": "eslint-config-canonical-react",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/gajus/eslint-config-canonical-react"
-    },
-    "scripts": {
-        "format": "jsonlint --sort-keys --in-place --indent '    ' ./eslintrc.json; jsonlint --sort-keys --in-place --indent '    ' ./package.json",
-        "preversion": "npm run format",
-        "test": ""
-    },
-    "version": "1.2.13"
+  "author": {
+    "email": "gk@anuary.com",
+    "name": "Gajus Kuizinas",
+    "url": "http://gajus.com"
+  },
+  "dependencies": {
+    "eslint-plugin-react": "^4.2.3"
+  },
+  "description": "Canonical ESLint (React/JSX) Config",
+  "devDependencies": {
+    "eslint": "^2.4.0",
+    "jsonlint": "^1.6.2"
+  },
+  "keywords": [
+    "eslint",
+    "canonical",
+    "react"
+  ],
+  "license": "BSD-3-Clause",
+  "main": "./index.js",
+  "name": "eslint-config-canonical-react",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gajus/eslint-config-canonical-react"
+  },
+  "scripts": {
+    "format": "jsonlint --sort-keys --in-place --indent '    ' ./eslintrc.json; jsonlint --sort-keys --in-place --indent '    ' ./package.json",
+    "preversion": "npm run format",
+    "test": ""
+  },
+  "version": "1.2.14"
 }

@@ -43,7 +43,14 @@
                 "maximum": 3
             }
         ],
-        "react/jsx-no-bind": 1,
+        "react/jsx-no-bind": [
+            1,
+            {
+                "allowArrowFunctions": false,
+                "allowBind": false,
+                "ignoreRefs": true
+            }
+        ],
         "react/jsx-no-duplicate-props": 2,
         "react/jsx-no-literals": 0,
         "react/jsx-no-undef": 1,
